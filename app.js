@@ -13,13 +13,19 @@ let botaoAdicionar = document.querySelector('.button-add');
 
 function adicionarAmigo()
 {
+    validarAmigo();
     listarAmigo(nomeDoAmigo.value);
+    nomeDoAmigo.value = ''; // limpar o input
+    nomeDoAmigo.focus();
 };
 
 function sortearAmigo()
 {
     visualizarLista();
 };
+
+const validarAmigo = () => nomeDoAmigo.value == ''?
+    alert('Insira o nome de um amigo'): null;
 
 // FUNCOES AUXILIARES
 
