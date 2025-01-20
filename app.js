@@ -1,40 +1,59 @@
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação.
-// Aqui você deverá desenvolver a lógica para resolver o problema.
+// Aqui você deverá desenvolver a lógica para resolver o problema.inputA
 
 // ATRIBUICOES DAS VARIAVEIS
 
+let seuNome;
 let listaDeNomes = [];
-let nomeDoAmigo = document.querySelector('#amigo');
+let listaDeSorteados = [];
+let inputAmigo = document.querySelector('#amigo');
+let nomeDoAmigo = document.querySelectorAll('li');
 let listaDeAmigos = document.querySelector('#listaAmigos');
 let resultado = document.querySelector('#resultado');
 let botaoAdicionar = document.querySelector('.button-add');
 
 // FUNCOES SOLICITADAS
 
-function adicionarAmigo()
-{
-    validarAmigo();
-    listarAmigo(nomeDoAmigo.value);
-    nomeDoAmigo.value = ''; // limpar o input
-    nomeDoAmigo.focus();
+function adicionarAmigo(){
+    validarAmigo();         // conferir valor no input
+    listarAmigo(inputAmigo.value);
+    inputAmigo.value = '';  // limpar o input
+    inputAmigo.focus();
 };
 
-function sortearAmigo()
-{
+function sortearAmigo(){
+    console.log(nomeDoAmigo)
     visualizarLista();
 };
 
-const validarAmigo = () => nomeDoAmigo.value == ''?
+const validarAmigo = () => inputAmigo.value == ''?
     alert('Insira o nome de um amigo'): null;
 
 // FUNCOES AUXILIARES
 
-const listarAmigo = (amigo) => {
+const listarAmigo = (amigo) =>
+{   // inclui o nome na lista
     let criarItem = document.createElement('li');
-    criarItem.append(amigo);
+        criarItem.append(amigo);
+        criarItem.onclick = selecionarSeuNome;
     listaDeAmigos.append(criarItem);
     listaDeNomes.push(amigo);
 };
+
+const selecionarSeuNome = (e) =>
+{   // informa qual nome nao deve ser sorteado
+    selecionado(e);
+    return seuNome = e.target.innerHTML;
+};
+
+const selecionado = (e) =>
+{   // realca o nome selecionado
+    let el = e.currentTarget;
+    el.style.backgroundColor = 'lightgreen';
+    el.style.margin = '5px';
+    el.style.padding = '5px';
+    el.style.textAlign = 'center';
+}
 
 const limparLista = () => {
 
