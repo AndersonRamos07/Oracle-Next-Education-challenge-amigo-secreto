@@ -1,5 +1,4 @@
-# Amigo Secreto - Sorteio de Amigo Secreto
-<h1 align="center">Amigo Secreto</h1>
+<h1 align="center">Amigo Secreto - Sorteio de Amigo Secreto</h1>
 ![Screenshot From 2025-02-05 12-42-45](https://github.com/user-attachments/assets/00329353-25aa-4c78-b726-c5cd9356bfc0)
 
 
