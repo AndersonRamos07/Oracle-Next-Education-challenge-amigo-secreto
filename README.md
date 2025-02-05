@@ -42,16 +42,17 @@ Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o siste
 
 ## ⚙️ Como Rodar o Projeto
 
-**Colando o projeto:**
+**Clonando o projeto:**
 - Clone este repositório para sua máquina local usando o comando:
   `git clone https://github.com/seu-usuario/amigo-secreto.git`
 - Abra o arquivo index.html em seu navegador preferido.
+Obs: O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
+
+**ou**
 
 **Acessando o site:**
   Acesso o site: https://one-challenge-amigo-secreto-one.vercel.app/
   <img src='https://github.com/user-attachments/assets/73a6d9f6-4cd3-4b6b-a6de-89743e2033f9'>
-
-O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
 
 ---
 
