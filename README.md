@@ -49,9 +49,7 @@ Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o siste
 
 **Acessando o site:**
   Acesso o site: https://one-challenge-amigo-secreto-one.vercel.app/
-  ou
-  clique na imagem abaixo:
-  <img src='https://github.com/user-attachments/assets/4d8f0a6f-5343-4550-82a1-be39484f05da' href='https://one-challenge-amigo-secreto-one.vercel.app/'>
+  <img src='https://github.com/user-attachments/assets/73a6d9f6-4cd3-4b6b-a6de-89743e2033f9'>
 
 O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
 
