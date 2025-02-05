@@ -1,4 +1,6 @@
 # Amigo Secreto - Sorteio de Amigo Secreto
+![Screenshot From 2025-02-05 12-42-45](https://github.com/user-attachments/assets/00329353-25aa-4c78-b726-c5cd9356bfc0)
+
 
 **Amigo Secreto** é um projeto proporcionado pela [Oracle](https://www.oracle.com/br/) + [Alura](https://www.alura.com.br/) em forma de Challenge, consiste em uma aplicação simples desenvolvida para realizar sorteios de amigos secretos de forma rápida e prática.
 O usuário pode adicionar os nomes dos amigos, selecionar quem não deseja ser sorteado, e o sistema realiza o sorteio automaticamente, garantindo que ninguém se sorteie a si mesmo.
