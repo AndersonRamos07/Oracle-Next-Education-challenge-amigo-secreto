@@ -1,6 +1,6 @@
 # Amigo Secreto - Sorteio de Amigo Secreto
 
-**Amigo Secreto** é um projeto proporcionado pela Oracle + [Alura](https://www.alura.com.br/?srsltid=AfmBOoo_yWd5PylWhkNzt9KCalEdl8gFx5hOOhmLF_0fI4W7X9mPZyMw) em forma de Challenge, consiste em uma aplicação simples desenvolvida para realizar sorteios de amigos secretos de forma rápida e prática.
+**Amigo Secreto** é um projeto proporcionado pela [Oracle](https://www.oracle.com/br/) + [Alura](https://www.alura.com.br/) em forma de Challenge, consiste em uma aplicação simples desenvolvida para realizar sorteios de amigos secretos de forma rápida e prática.
 O usuário pode adicionar os nomes dos amigos, selecionar quem não deseja ser sorteado, e o sistema realiza o sorteio automaticamente, garantindo que ninguém se sorteie a si mesmo.
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO%20-%20BETA%20VERSION&color=GREEN&style=for-the-badge)
@@ -12,7 +12,7 @@ O usuário pode adicionar os nomes dos amigos, selecionar quem não deseja ser s
 - **HTML**: Estrutura básica do site.
 - **CSS**: Estilos para a interface.
 - **JavaScript**: Lógica do sorteio, interação com o DOM e validação dos dados.
-- **Fontes**: Aulas dos cursos ministrados pela [Alura](https://www.alura.com.br/?srsltid=AfmBOoo_yWd5PylWhkNzt9KCalEdl8gFx5hOOhmLF_0fI4W7X9mPZyMw).
+- **Fontes**: Aulas dos cursos ministrados pela [Alura](https://www.alura.com.br/).
 
 ---
 
@@ -36,12 +36,12 @@ Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o siste
 ---
 
 ## ⚙️ Como Rodar o Projeto
-Clone este repositório para sua máquina local usando o comando:
 
-bash
+- Clone este repositório para sua máquina local usando o comando:
+`bash
 Copy
-git clone https://github.com/seu-usuario/amigo-secreto.git
-Abra o arquivo index.html em seu navegador preferido.
+git clone https://github.com/seu-usuario/amigo-secreto.git`
+- Abra o arquivo index.html em seu navegador preferido.
 
 O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
 
@@ -65,5 +65,7 @@ Este projeto está licenciado sob a **MIT License**.
 ## 👥  Contribuição
 
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma ideia de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+---
 
 **Autor**: Anderson Ramos
