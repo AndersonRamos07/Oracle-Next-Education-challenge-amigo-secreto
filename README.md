@@ -48,19 +48,22 @@ O projeto não necessita de servidores ou configurações adicionais para funcio
 ---
 
 ## ✨ Melhorias Futuras
-Validação de duplicação de amigos: Adicionar validações para impedir que o mesmo nome seja adicionado mais de uma vez.
-Animações: Melhorar a experiência do usuário com animações ao sorteio.
-Melhorias na interface: Adicionar mais feedback visual ao usuário durante o processo de sorteio.
-Salvar histórico de sorteios: Implementar uma funcionalidade para salvar o histórico dos sorteios realizados.
+
+- **Validação de duplicação de amigos**: Adicionar validações para impedir que o mesmo nome seja adicionado mais de uma vez.
+- **Animações**: Melhorar a experiência do usuário com animações ao sorteio.
+- **Melhorias na interface**: Adicionar mais feedback visual ao usuário durante o processo de sorteio.
+- **Salvar histórico de sorteios**: Implementar uma funcionalidade para salvar o histórico dos sorteios realizados.
 
 ---
 
 ## 📑 Licença
-Este projeto está licenciado sob a MIT License.
+
+Este projeto está licenciado sob a **MIT License**.
 
 ---
 
 ## 👥  Contribuição
+
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma ideia de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Autor: Anderson Ramos
+**Autor**: Anderson Ramos
