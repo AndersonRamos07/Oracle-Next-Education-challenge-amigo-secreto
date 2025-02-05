@@ -1,4 +1,4 @@
-<h1 align="center">Amigo Secreto - Sorteio de Amigo Secreto</h1>
+<h1 align="center">Oracle-Next-Education (ONE) - Challenge "Amigo Secreto"</h1>
 
 ![Screenshot From 2025-02-05 12-42-45](https://github.com/user-attachments/assets/00329353-25aa-4c78-b726-c5cd9356bfc0)
 
@@ -27,6 +27,8 @@ O usuário pode adicionar os nomes dos amigos, selecionar quem não deseja ser s
 Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o sistema permite iniciar um novo sorteio.
 - **Interface simples e intuitiva**: O design foi pensado para ser fácil de usar e responsivo.
 
+![perfect](https://github.com/user-attachments/assets/9b94a8de-0931-4f7c-8fe1-286b57e8f493)
+
 ---
 
 ## 📂 Estrutura de Arquivos
@@ -40,11 +42,16 @@ Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o siste
 
 ## ⚙️ Como Rodar o Projeto
 
+**Colando o projeto:**
 - Clone este repositório para sua máquina local usando o comando:
-`bash
-Copy
-git clone https://github.com/seu-usuario/amigo-secreto.git`
+  `git clone https://github.com/seu-usuario/amigo-secreto.git`
 - Abra o arquivo index.html em seu navegador preferido.
+
+**Acessando o site:**
+  Acesso o site: https://one-challenge-amigo-secreto-one.vercel.app/
+  ou
+  clique na imagem abaixo:
+  <img src='https://github.com/user-attachments/assets/4d8f0a6f-5343-4550-82a1-be39484f05da' href='https://one-challenge-amigo-secreto-one.vercel.app/'>
 
 O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
 
