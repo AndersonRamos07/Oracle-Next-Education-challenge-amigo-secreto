@@ -45,7 +45,7 @@ Exibição do resultado: O nome do amigo sorteado é mostrado na tela, e o siste
 **Clonando o projeto:**
 - Clone este repositório para sua máquina local usando o comando:
   ```bash
-  git clone https://github.com/seu-usuario/amigo-secreto.git
+  git clone https://github.com/AndersonRamos07/Oracle-Next-Education-challenge-amigo-secreto.git
   ```
 - Abra o arquivo index.html em seu navegador preferido.
 Obs: O projeto não necessita de servidores ou configurações adicionais para funcionar, basta abrir o arquivo HTML localmente.
